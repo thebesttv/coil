@@ -1,0 +1,27 @@
+#+title: 蚊烟香
+
+#+caption: The Sudarium of Saint Veronica
+[[./imgs/claude-mellan.jpg]]
+
+#+begin_quote
+中世纪的法国画家克劳德·梅兰 （Claude Mellan，1598-1688）在1649年制作了
+一幅版画，内容是耶稣的头像。
+
+这幅画非常有名，因为它是用一根线条画成的，线条的起点就是耶稣的鼻尖。
+
+这根线条一口气画到底，没有断过，也没有跟其他线条交叉。
+#+end_quote
+
+#+caption: 效果图
+[[./imgs/example.jpg]]
+
+* 算法
+
+因为懒得整理就放了笔记.
+
+[[./imgs/notes.png]]
+
+* 依赖
+
+- Cairo
+- Magick++
